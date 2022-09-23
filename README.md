@@ -1,16 +1,8 @@
 # 💫 About Me:
+  Hi, this is Shirso Bhattacharyya. I'm a full-stack MERN developer based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities.
 
-<div style='display:flex'>
-  <div>
-    <img style='height:200px;width:400px' src='https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg' alt='dev_img'/>
-  <div/>
-  <div>
-    <p>
-    Hi, this is Shirso Bhattacharyya. I'm a full-stack MERN developer based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities.
-    Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.
-    </p>
-  </div>
-</div>
+ Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirso369) 
