@@ -4,20 +4,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=8230C6&width=435&lines=Hi!+It's+Shirso+Bhattacharyya;Full+Stack+MERN+Web+Developer;)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">this is Shirso Bhattacharyya.</h2>
+<h2 align='center'>Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">It's Shirso Bhattacharyya.</h2>
 
 <h4>
   <i>I'm a full-stack MERN developer based in India. I've always enjoyed working on different projects to enhance my experience in developing various websites with varying features and functionalities</i>
 </h4>
 <h4>
   <i>Please feel free to drop off a text for collaborations or even if you wanna just say 'hi'.</i>
-.</h4>  
+.</h4>
+
+## My approach to coding:
+
+![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shirso369) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://shirsobhattacharyya.github.io)
 
-## ☻ Github Stats:
+## ☻ Github Profile Information:
 ![Github Profile Views](https://komarev.com/ghpvc/?username=ShirsoBhattacharyya&label=Profile%20views&color=0e75b6&style=flat)
 ![Github Followers](https://img.shields.io/github/followers/ShirsoBhattacharyya?label=Followers&style=social)
 
