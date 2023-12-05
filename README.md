@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shirso369) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://shirsobhattacharyya.github.io)
 
-## ☻ Github Profile Information:
+## ☻ GitHub Profile Information:
 ![Github Profile Views](https://komarev.com/ghpvc/?username=ShirsoBhattacharyya&label=Profile%20views&color=0e75b6&style=flat)
 ![Github Followers](https://img.shields.io/github/followers/ShirsoBhattacharyya?label=Followers&style=social)
 
@@ -42,8 +42,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShirsoBhattacharyya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShirsoBhattacharyya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirsoBhattacharyya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<a href="https://github.com/ShirsoBhattacharyya/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShirsoBhattacharyya&bg_color=151515&color=FA8B00&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirsoBhattacharyya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
